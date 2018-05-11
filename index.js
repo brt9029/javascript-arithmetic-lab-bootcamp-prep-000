@@ -45,3 +45,6 @@ function subtract(a, b){
 function multyply(a, b){
   return a * b
 }
+function divide(a, b){
+  return a / b
+}
