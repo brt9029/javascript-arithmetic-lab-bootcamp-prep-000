@@ -33,7 +33,9 @@ parseFloat('80.123999')
 function inc(n){
   return n ++
 }
-
 function dec(n){
   
+}
+function add(a, b){
+  return a + b
 }
