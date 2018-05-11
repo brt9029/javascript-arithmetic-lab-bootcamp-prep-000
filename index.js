@@ -34,7 +34,7 @@ function inc(n){
   return ++n 
 }
 function dec(n){
-  
+  return --n
 }
 function add(a, b){
   return a + b
